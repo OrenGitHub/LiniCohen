@@ -1,4 +1,7 @@
-When Gauss Jordan elimination is performed, students are asked to supply
-a sequence of row operations followed by the solution set.
+ - Gauss Jordan elimination will be explained by example.
+ - Students receive a linear system
 
-    R1 <- R1 + 3/5R2
+    R2 <- R2 + 3/4R1
+    R3 <- R3 - 4R1
+    R3 <- R3 - 40/3R2
+
